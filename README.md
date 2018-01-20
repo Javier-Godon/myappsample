@@ -1,3 +1,6 @@
 #MyApp
+<<<<<<< HEAD
 This is my App
->>>>>>> 79e3e1ba2e96f3fc8f279f5eb84bcb42403b6b24
+=======
+This is my App changed
+>>>>>>> 1d79a3a9eef433837742f94e0bc220e4a9bd33d0
